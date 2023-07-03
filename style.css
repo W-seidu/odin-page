@@ -154,6 +154,45 @@ div .img-ph {
     font-style: normal;
 }
 
+/* For the fourth page */
+
+.container-4 {
+    display: flex;
+    background-color: white;
+    height: 60vh;
+    max-width: 100vw;
+}
+
+.action-box {
+    display: flex;
+    align-items: center;
+    margin-top: 110px;
+    width: 1020px;
+    height: 150px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    margin-left: 190px;
+}
+
+div .cta {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    margin-left: 90px;
+}
+
+ul .lower-text {
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+div .sign-up {
+    justify-self: flex-start;
+    font-size: 20px;
+    border: 2px solid white;
+    padding: 7px 30px;
+    border-radius: 10px;
+}
 
 
 
