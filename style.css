@@ -194,6 +194,14 @@ div .sign-up {
     border-radius: 10px;
 }
 
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1f2937;
+    color: white;
+    font-size: large;
+}
+
 
 
 
